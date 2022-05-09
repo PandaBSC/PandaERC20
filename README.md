@@ -1,2 +1,2 @@
 # PandaERC20
-The $Panda Contract
+Here is the smart contract code of Panda project.
